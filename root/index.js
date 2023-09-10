@@ -75,4 +75,4 @@ client.on("interactionCreate", async (interaction) => {
   });
   
 
-client.login("MTEyNjEwODc5MTkzNTYxMDkzMQ.Gs59hI.-xndRmADSHpqTRetknBWWqfiss_ik5yWvAYCt4");
+client.login("YourAPIkey");
